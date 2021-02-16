@@ -1,0 +1,16 @@
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\spring2021-pa2-cmrozsa.exe
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\spring2021-pa2-cmrozsa.deps.json
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\spring2021-pa2-cmrozsa.runtimeconfig.json
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\spring2021-pa2-cmrozsa.runtimeconfig.dev.json
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\spring2021-pa2-cmrozsa.dll
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\ref\spring2021-pa2-cmrozsa.dll
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\bin\Debug\net5.0\spring2021-pa2-cmrozsa.pdb
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.csprojAssemblyReference.cache
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.AssemblyInfoInputs.cache
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.AssemblyInfo.cs
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.csproj.CoreCompileInputs.cache
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.dll
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\ref\spring2021-pa2-cmrozsa.dll
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.pdb
+C:\Users\17404\Desktop\Source\Repos\spring2021-pa2-cmrozsa\obj\Debug\net5.0\spring2021-pa2-cmrozsa.genruntimeconfig.cache
