@@ -1,0 +1,16 @@
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.csprojAssemblyReference.cache
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.AssemblyInfoInputs.cache
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.AssemblyInfo.cs
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.csproj.CoreCompileInputs.cache
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\oop-dogs.exe
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\oop-dogs.deps.json
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\oop-dogs.runtimeconfig.json
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\oop-dogs.runtimeconfig.dev.json
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\oop-dogs.dll
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\ref\oop-dogs.dll
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\bin\Debug\net5.0\oop-dogs.pdb
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.dll
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\ref\oop-dogs.dll
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.pdb
+C:\Users\17404\Desktop\Source\Repos\oop-dogs\obj\Debug\net5.0\oop-dogs.genruntimeconfig.cache
